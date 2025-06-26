@@ -15,7 +15,8 @@ Check out the live project here:
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your project here by uploading them in your GitHub repo and using `![Alt Text](image-link)`)*
+![image](https://github.com/user-attachments/assets/ff1673d1-a40c-479c-b799-0261d7f5830d)
+
 
 ---
 
