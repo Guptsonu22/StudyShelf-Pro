@@ -19,25 +19,19 @@ An open-source platform to share and find quality educational resources like not
 ## 🚀 Getting Started
 
 1. **Clone the repository**  
-```bash
+
 git clone https://github.com/your-username/educational-resource-dashboard.git
 Navigate to the project folder
 
-bash
-Copy
-Edit
+
 cd educational-resource-dashboard
 Install dependencies
 
-bash
-Copy
-Edit
+
 npm install
 Run the app locally
 
-bash
-Copy
-Edit
+
 npm run dev
 🤝 Contributing
 Contributions are what make the open-source community amazing!
@@ -65,9 +59,7 @@ Dark mode toggle
 📃 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
+
 
 You can create this file by:
 - Clicking **"Add file" → "Create new file"**
